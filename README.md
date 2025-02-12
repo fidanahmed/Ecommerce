@@ -167,29 +167,12 @@ Documentation: <a href="https://razorpay.com/docs/payments/server-integration/py
   - Password: admin@123
 
 
-## Screenshots
-
-Visit our <a href="https://private-app.prathmeshsoni.works/view/113" target="_blank"> Screenshots Page </a> for a visual walkthrough of the Music Club E-Commerce Website.
-
-Demo Video 👇:
-
-https://github.com/prathmeshsoni/Ecommerce/assets/78293392/77c6be7a-d6a2-4e27-9c8e-e28327c99586
-
-<br />
-
-The repository is a starting point for most of my professional projects; for this, I'm using it as a part of my portfolio, feel free to use it wherever you want. I'll be happy if you provide any feedback code improvements or suggestions.
-
 
 ## Connect with me at
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/PrathmeshSoni/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:connect.prathmeshsoni@gmail.com'>connect.prathmeshsoni@gmail.com</a>
+  📫 How to reach me: <a href='mailto:connect.fidan12345@gmail.com'>connect.fidan12345@gmail.com</a>
 </p>
 
 
@@ -200,9 +183,9 @@ The repository is a starting point for most of my professional projects; for thi
 </p>
 
 <p style="text-align:right;" align="right">
-  <a href="https://github.com/PrathmeshSoni/Ecommerce" target="_blank">Back To Repository</a>
+  <a href="https://github.com/Fidan Ahmed/Ecommerce" target="_blank">Back To Repository</a>
 </p>
 
 
 ---
-**<a href="https://music-club.prathmeshsoni.works" target="_blank">Music Club</a> eCommerce** - Provided by **<a href="https://prathmeshsoni.works" target="_blank">Prathmesh Soni</a>**
+
